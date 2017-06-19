@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: Vikibeta_lab
+subtitle: a site
+description: Virtual Interactive Kinetic Intelligence
+author: King
 language:
 timezone:
 
@@ -68,4 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:WLyKan/vikibeta.com.git
+  branch: master
