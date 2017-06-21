@@ -58,7 +58,7 @@ typings/
 .env
 
 # theme
-themes/**/**
+# themes/*/**
 
 # deploy
 .deploy_git/
