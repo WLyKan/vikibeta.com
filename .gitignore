@@ -63,3 +63,6 @@ public/
 
 # editor
 .vscode/
+
+# hexo
+db.json
