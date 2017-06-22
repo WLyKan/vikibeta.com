@@ -17,6 +17,12 @@ root: /
 permalink: :category/:title
 permalink_defaults:
 
+# Set avatar (Absolute url and relative url)
+avatar: /images/avatar.png
+
+# For seo
+keywords: forsigner,前端,设计,Hexo主题,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript
+
 # Directory
 source_dir: source
 public_dir: public
