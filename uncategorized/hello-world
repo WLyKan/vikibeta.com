@@ -16,9 +16,10 @@
   
 
   <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+<meta name="keywords" content="forsigner,前端,设计,Hexo主题,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hello World">
-<meta property="og:url" content="http://yoursite.com/2017/06/19/hello-world/index.html">
+<meta property="og:url" content="http://yoursite.com/uncategorized/hello-world">
 <meta property="og:site_name" content="Vikibeta_lab x.x">
 <meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
 <meta property="og:updated_time" content="2017-06-19T07:59:10.000Z">
@@ -212,7 +213,7 @@
       
         <span>
           <i class="icon-comment"></i>
-          <a href="http://www.forsigner.com/2017/06/19/hello-world/#disqus_thread"></a>
+          <a href="http://www.forsigner.com/uncategorized/hello-world#disqus_thread"></a>
         </span>
       
 
@@ -398,7 +399,7 @@
   <script>
     var disqus_shortname = 'forsigner';
     
-    var disqus_url = 'http://yoursite.com/2017/06/19/hello-world/';
+    var disqus_url = 'http://yoursite.com/uncategorized/hello-world';
     
     (function(){
       var dsq = document.createElement('script');
