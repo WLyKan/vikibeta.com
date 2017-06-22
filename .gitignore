@@ -60,3 +60,6 @@ typings/
 # deploy
 .deploy_git/
 public/
+
+# editor
+.vscode/
