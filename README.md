@@ -1,4 +1,6 @@
-# Site [![Build Status](https://travis-ci.org/WLyKan/vikibeta.com.svg?branch=master)](https://travis-ci.org/WLyKan/vikibeta.com)
+# Site
+
+ [![Build Status](https://travis-ci.org/WLyKan/vikibeta.com.svg?branch=master)](https://travis-ci.org/WLyKan/vikibeta.com)
 
 `title: Vikibeta_lab`
 
