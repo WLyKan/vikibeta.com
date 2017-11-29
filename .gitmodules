@@ -1,3 +1,11 @@
 [submodule "themes/hexo-theme-replica"]
 	path = themes/hexo-theme-replica
 	url = git@github.com:WLyKan/hexo-theme-replica.git
+
+[submodule "themes/hexo-theme-next"]
+	path = themes/hexo-theme-next
+	url = https://github.com/iissnan/hexo-theme-next.git
+
+[submodule "themes/hexo-theme-bubuzou"]
+	path = themes/hexo-theme-bubuzou
+	url = https://github.com/Bulandent/hexo-theme-bubuzou.git
