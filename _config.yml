@@ -5,14 +5,14 @@
 # Site
 title: Vikibeta_lab x.x
 subtitle: a site
-description: Virtual Interactive Kinetic Intelligence
+description: Virtual.Interactive.Kinetic.Intelligence.
 author: King
-language:
-timezone:
+language: zh-cn
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.vikibeta.com
 root: /
 permalink: :category/:title
 permalink_defaults:
@@ -21,7 +21,7 @@ permalink_defaults:
 avatar: /images/avatar.png
 
 # For seo
-keywords: forsigner,前端,设计,Hexo主题,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript
+keywords: 前端,设计,Hexo主题,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript
 
 # Directory
 source_dir: source
@@ -69,7 +69,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fexo
+# theme: fexo 
+theme: replica # 类似github 
+# theme: hexo-theme-next # 带侧栏博客主题 
+# theme: hexo-theme-bubuzou # 带右侧栏博客主题 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
