@@ -51,7 +51,9 @@ highlight:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 
+  # 编程: programming 可以作映射，在发表文章时只输入 编程
+  编程: programming
 tag_map:
 
 # Date / Time format
