@@ -14,7 +14,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.vikibeta.com
 root: /
-permalink: :category/:title
+permalink: :category/:title/
 permalink_defaults:
 
 # Set avatar (Absolute url and relative url)
