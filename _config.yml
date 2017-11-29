@@ -72,7 +72,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: fexo 
-theme: replica # 类似github 
+theme: hexo-theme-replica # 类似github 
 # theme: hexo-theme-next # 带侧栏博客主题 
 # theme: hexo-theme-bubuzou # 带右侧栏博客主题 
 
