@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-replica"]
+	path = themes/hexo-theme-replica
+	url = git@github.com:WLyKan/hexo-theme-replica.git
