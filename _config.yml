@@ -87,3 +87,9 @@ social:
   github: https://github.com/WLyKan
   weibo: 
   linkedin:
+
+# Disqus 
+disqus:
+  enable: true
+  shortname: kein    #your name
+  count: true
